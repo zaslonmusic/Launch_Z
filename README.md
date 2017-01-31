@@ -6,3 +6,5 @@ Ableton Live Script for Novation Launchkey Mini: <br>
 Ableton Live midi settings: <br>
 <br>
 <a href="https://ibb.co/msEc8v"><img src="https://image.ibb.co/gESx8v/ableton_midi_settings.png" alt="ableton_midi_settings" border="0"></a>
+<br>
+The rest of the functionality remains the same
